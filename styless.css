@@ -1,0 +1,82 @@
+* {
+    margin: 0%;
+    padding: 0;
+}
+
+.container {
+    margin: 0 auto;
+}
+.header {
+    color: white;
+    text-align: center;
+    font-size: 28px;
+    max-width: 100%;
+    height: auto!important;
+    background-image: url(webpage/herbss2.jpg);
+    margin: 0 auto;
+
+}
+.symbol {
+    text-align: right;
+    position:absolute;
+    max-width: 100%;
+    height: auto!important;
+    left:91%;
+    margin-top: 22px;
+    
+  
+    
+    
+
+}
+.adjunct {
+
+    text-align: right;
+    font-size: 18px;
+    line-height: 32px;
+    max-width: 100%;
+    height: auto!important;
+    margin-top: 10px;
+    margin-right: 12px;
+}
+.Cent {
+    height: 400px;
+    text-align: center;
+    font-size: 18px;
+    max-width: 100%;
+    padding-top: 15px;
+    line-height: 30px;
+    height: auto!important;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.imagee {
+    font-size: 22px;
+    text-align: left;
+    max-width: 100%;
+    height: auto!important;
+    margin-left: 306px;
+    margin-right: 50px;
+}
+.imagee2 {
+    font-size: 22px;
+    text-align: right;
+    position:absolute;
+    left: 2%;
+    top:  10%;
+    text-align: left;
+    max-width: 100%;
+    height: auto!important;
+    margin-left: 700px;
+    margin-top: 440px;
+    
+}
+.deetail {
+    font-size: 18px;
+    line-height: 32px;
+    text-align: left;
+    max-width: 100%;
+    height: auto!important;
+    margin-left: 90px;
+    margin-right: 90px;
+}
